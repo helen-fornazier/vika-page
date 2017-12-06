@@ -27,3 +27,11 @@ body {
 .portfolio-item {
     margin-bottom: 30px;
 }
+
+.carousel-caption {
+    color: #FFFFFF;
+}
+
+.carousel-caption h3 {
+    font-weight:bold;
+}
